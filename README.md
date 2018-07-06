@@ -1,0 +1,2 @@
+# struggle-cloud
+cloud test
